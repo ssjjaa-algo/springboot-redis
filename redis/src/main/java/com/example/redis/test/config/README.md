@@ -27,10 +27,6 @@
     - ObjectMapper를 안에 **추가로 선언하고 안하고의 차이가 존재**합니다.
 - entryTtl에 Cache를 유지할 시간을 설정합니다.
 
-<aside>
-💡 **`GenericJackson2JsonRedisSerializer` 에 대해 짚고 가겠습니다.**
-
-</aside>
 
 ### GenericJackson2JsonRedisSerializer
 
